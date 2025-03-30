@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "imageloader.h": "c"
+        "imageloader.h": "c",
+        "inttypes.h": "c"
     }
 }
